@@ -27,6 +27,7 @@
 		        page import="java.net.URL"
 		        page import="java.net.URLConnection"
 		        page import="java.net.SocketTimeoutException"
+		        page import="java.net.ConnectException"
 		    %>
 		    <%
 		        // code to get the availability zone where this page is executing
@@ -59,8 +60,11 @@
                     az="localhost";
 
                 }
+                catch (ConnectException ce) {
+                    az="localhost";
+                }
                 catch (Exception e) {
-                    e.printStackTrace();
+                    az="localhost";
 
                     try {
                         if (is != null) is.close();

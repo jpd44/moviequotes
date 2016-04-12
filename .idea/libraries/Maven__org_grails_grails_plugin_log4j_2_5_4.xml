@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.grails:grails-plugin-log4j:2.5.4">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/grails/grails-plugin-log4j/2.5.4/grails-plugin-log4j-2.5.4.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/grails/grails-plugin-log4j/2.5.4/grails-plugin-log4j-2.5.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/grails/grails-plugin-log4j/2.5.4/grails-plugin-log4j-2.5.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
