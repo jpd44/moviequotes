@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.bertramlabs.plugins:asset-pipeline-core:2.5.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bertramlabs.plugins/asset-pipeline-core/2.5.5/1ae0ea630c48176bdcab73eaa422b51f0ee83e8f/asset-pipeline-core-2.5.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bertramlabs.plugins/asset-pipeline-core/2.5.5/b551c532afa9b3967e535c8093186cbca804a916/asset-pipeline-core-2.5.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.grails:grails-project-api:2.5.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-project-api/2.5.4/b518da07f0fbb602d0f50e8aaaa18d061ccee177/grails-project-api-2.5.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-project-api/2.5.4/97b112886b0c6f3a62a3b313b6376b1d4c5f47cf/grails-project-api-2.5.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
